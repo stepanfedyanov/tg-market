@@ -17,3 +17,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.container {
+    max-width: 1160px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+/* @import "menu.css"; */
