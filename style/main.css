@@ -18,6 +18,10 @@
     font-style: normal;
 }
 
+* {
+    font-family: 'Cera Pro';
+}
+
 .container {
     max-width: 1160px;
     height: 100%;
